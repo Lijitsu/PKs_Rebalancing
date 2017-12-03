@@ -516,7 +516,7 @@
     "id": "trapdoor_pit_b1",
     "name": "spider lairs",
     "sym": 79,
-    "color": "ltgrey",
+    "color": "ltgray",
     "see_cost": 2,
     "flags" : [ "NO_ROTATE" ],
     "mondensity": 3
